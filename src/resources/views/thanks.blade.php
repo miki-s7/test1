@@ -13,8 +13,8 @@
 <body>
   <header class="header">
     <div class="header__inner">
-      <a class="header__logo" href="/">
-        Contact Form
+      <a class="header__logo" href="">
+        FashionablyLate
       </a>
     </div>
   </header>
@@ -24,6 +24,9 @@
       <div class="thanks__heading">
         <h2>お問い合わせありがとうございます</h2>
       </div>
+      <div class="form__button">
+          <button class="form__button-submit" type="submit">HOME</button>
+        </div>
     </div>
   </main>
 </body>
